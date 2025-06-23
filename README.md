@@ -1,26 +1,45 @@
 # 👋 Hi, I'm Ali Haider
 
-🚀 Passionate about AI, Cybersecurity & Future Tech  
-🛠 Currently working on **SONAS** – a device  which will remove wifi short lange limit.
-📚 Learning Web Dev, Python, and Ethical AI Systems  
-🔒 Advocate for secure, ethical, and open-source innovation  
+🔭 Passionate about building intelligent systems, solving security problems, and exploring the future of tech.
 
 ---
 
-## 🛠 Skills & Interests
-- 🔹 AI Development (Machine Learning, LLMs, Autonomous Systems)  
-- 🔹 Ethical Hacking & Cyber Defense  
-- 🔹 Python, Web Development (HTML/CSS/JS), Git & Linux  
-- 🔹 System Architecture & OS Design
+## 🧠 Interests & Focus Areas
+
+- 🤖 Artificial Intelligence (LLMs, Autonomous Agents, NLP)
+- 🔐 Cybersecurity, Ethical Hacking & System Defense
+- 🧰 System Architecture, Custom OS, Embedded Intelligence
+- 🌐 Web Dev (HTML/CSS/JS) & Python Backend Scripting
+- 🧪 Open-Source Experiments & Automation Tools
 
 ---
 
-## 📂 Projects (Coming Soon)
-- **SONAS** – A device which will used used for long range wifi connection  
-- **Ultron** – AI virus agent simulation (controlled ethical design)  
-- **TITAN OS** – Custom OS layer for intelligent machines  
-- **Portfolio Site** – Personal website to showcase everything  
+## 🔧 Core Tech Skills
+
+| Area             | Tools / Tech Stack                           |
+|------------------|----------------------------------------------|
+| Programming      | Python, Bash, JavaScript (Basic)             |
+| Web & Scripting  | HTML, CSS, Google Apps Script, GitHub Pages  |
+| AI & Automation  | Gemini API, OpenAI, LLM APIs, Prompt Design  |
+| Systems & Tools  | Git, Linux, VS Code, Terminal, Flask Basics  |
+| Security         | Network Concepts, Wireshark, Kali Tools      |
 
 ---
 
-> ⚡ Building silently. Launching loudly.
+## 🌱 Currently Working On
+
+- `SONAS` – Long-range WiFi solution (hardware + OS layer)
+- `Ultron` – AI virus-agent simulation (controlled ethical architecture)
+- `TITAN OS` – Lightweight OS layer for intelligent machines
+- `MailMind` – Ask AI questions, get email replies (via Gemini)
+
+---
+
+## 📫 Let's Connect
+
+- GitHub: [alihaider-dev01](https://github.com/alihaider-dev01)
+- Working quietly. Launching loudly. 💥
+
+---
+
+> ⚙️ Building ethical, powerful systems that think, defend, and evolve.
