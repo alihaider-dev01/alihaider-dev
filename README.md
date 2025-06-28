@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Ali Haider
+# 👋 Hi, I'm Muhammad Sohaib
 
 🔭 Passionate about building intelligent systems, solving security problems, and exploring the future of tech.
 
@@ -26,18 +26,18 @@
 
 ---
 
-## 🌱 Currently Working On
+## 🌱 Passionate Projects
 
 - `SONAS` – Long-range WiFi solution (hardware + OS layer)
 - `Ultron` – AI virus-agent simulation (controlled ethical architecture)
 - `TITAN OS` – Lightweight OS layer for intelligent machines
-- `MailMind` – Ask AI questions, get email replies (via Gemini)
+
 
 ---
 
 ## 📫 Let's Connect
 
-- GitHub: [alihaider-dev01](https://github.com/alihaider-dev01)
+- GitHub: [msohaib-dev](https://github.com/msohaib-dev)
 - Working quietly. Launching loudly. 💥
 
 ---
